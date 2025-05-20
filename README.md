@@ -12,4 +12,5 @@ test 2:
 
 gif
 
-![gif](https://adigo-gachon-ac-kr.s3.ap-northeast-2.amazonaws.com/KakaoTalk_Photo_2025-05-20-08-56-05+003.gif)
+![Preview](https://adigo-gachon-ac-kr.s3.ap-northeast-2.amazonaws.com/KakaoTalk_Photo_2025-05-20-08-56-05%2B003.gif)
+
