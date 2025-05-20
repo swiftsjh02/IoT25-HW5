@@ -10,5 +10,5 @@ test 2:
 ![KakaoTalk_Photo_2025-05-20-08-56-03 002](https://github.com/user-attachments/assets/5a9aef30-1f62-4883-b7c3-7f5c4fd9ff45)
 
 
-gif url: https://adigo-gachon-ac-kr.s3.ap-northeast-2.amazonaws.com/KakaoTalk_Photo_2025-05-20-08-56-05%2B003.gif
+gif url: https://adigo-gachon-ac-kr.s3.ap-northeast-2.amazonaws.com/KakaoTalk_Photo_2025-05-20-08-56-05+003.gif
 
